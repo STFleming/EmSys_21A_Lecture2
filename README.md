@@ -3,6 +3,7 @@ In this lecture we will explore:
 * What a System-on-Chip is.
 * Why C is the language of choice for programming such systems.
 * The basics on an Arduino sketch. 
+* Interacting with memory-mapped hardware.
 
 This will all be framed in the context of your TinyPico device.
 
